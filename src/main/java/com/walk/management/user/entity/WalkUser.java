@@ -1,6 +1,6 @@
 package com.walk.management.user.entity;
 
-public class WalkUser {
+/*public class WalkUser {
 
 	private int id;
 	private String userName;
@@ -33,3 +33,4 @@ public class WalkUser {
 	
 	
 }
+*/

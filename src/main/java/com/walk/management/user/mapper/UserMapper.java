@@ -5,7 +5,7 @@ import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;
 
-import com.walk.management.user.entity.WalkUser;
+import com.walk.user.entity.WalkUser;
 
 @Mapper
 public interface UserMapper {

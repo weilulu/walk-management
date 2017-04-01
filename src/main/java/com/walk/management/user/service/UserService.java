@@ -3,8 +3,8 @@ package com.walk.management.user.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.walk.management.user.entity.WalkUser;
 import com.walk.management.user.mapper.UserMapper;
+import com.walk.user.entity.WalkUser;
 
 @Service
 public class UserService {

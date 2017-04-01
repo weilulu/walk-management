@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.walk.management.user.entity.WalkUser;
 import com.walk.management.user.service.UserService;
+import com.walk.user.entity.WalkUser;
 
 @RestController
 @RequestMapping(value="user")
